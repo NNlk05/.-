@@ -1,0 +1,2 @@
+# .-
+Esolang all about . and -
